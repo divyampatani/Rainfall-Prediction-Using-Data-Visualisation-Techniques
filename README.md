@@ -6,6 +6,8 @@ Roll No: 1911035
 
 Batch: A3
 
+Course:Computer Engineering
+
 Faculty: Vaibhav Vasani and Pradnya Bhangale
 
 College: KJ SOMAIYA COLLEGE OF ENGINEERING
