@@ -13,3 +13,5 @@ Faculty: Vaibhav Vasani and Pradnya Bhangale
 College: KJ SOMAIYA COLLEGE OF ENGINEERING
 
 Topic: Rainfall Prediction Using Data Visualisation Techniques
+
+I have uploaded the Jupyter Notebook for the implementation work.
